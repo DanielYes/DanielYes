@@ -1,5 +1,6 @@
 <img src="https://github.com/DanielYes/DanielYes/blob/main/header.png" alt="banner that says DanielYes - software developer, artist, designer">
 
+![](http://i.imgur.com/OUkLi.gif)
 <!--
 **DanielYes/DanielYes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
