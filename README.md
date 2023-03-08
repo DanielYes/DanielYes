@@ -1,5 +1,4 @@
-<img src="https://github.com/DanielYes/DanielYes/blob/main/header.png" alt="banner that says DanielYes - software developer, artist, designer">
-
+<img src="https://github.com/DanielYes/DanielYes/blob/427d20dadd195facbdb22026a183cbad4470e004/Cover.png" alt="banner that says DanielYes - software developer, artist, designer">
 
 
 ![](https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270)
