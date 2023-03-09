@@ -1,3 +1,6 @@
+![]
+(https://qph.cf2.quoracdn.net/main-qimg-840de57b4f64aee1e72e4fc208ec6607)
+
 <img src="https://github.com/DanielYes/DanielYes/blob/c179b129a988a41e62a2605b91d77aac50163d6e/Banner1.png" alt="banner that says DanielYes - software developer, artist, designer">
 
 
