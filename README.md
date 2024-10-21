@@ -21,7 +21,6 @@ I specialize in crafting data pipelines and analytical models that transform raw
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Maximo data insights and automation projects  
   
@@ -33,18 +32,6 @@ I specialize in crafting data pipelines and analytical models that transform raw
   
 
 - ⚡ Fun fact: I’ve got a home gym and love lifting weights in my free time
-
-  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>   
 
