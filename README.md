@@ -77,7 +77,4 @@ I specialize in crafting data pipelines and analytical models that transform raw
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 ![gif](https://user-images.githubusercontent.com/57881758/223892252-f0edac9a-fd95-4c81-a8f0-86f915e169b6.gif)
