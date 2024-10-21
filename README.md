@@ -10,7 +10,7 @@
   
 
 ### Glad to see you here!  
-I’m a data analyst with and electronic enginee, now focusing on data science and machine learning. My experience allows me to not only analyze and interpret complex datasets but also to build efficient and scalable systems for data-driven decision-making.
+I’m a data analyst with and electronic engineer, now focusing on data science and machine learning. My experience allows me to not only analyze and interpret complex datasets but also to build efficient and scalable systems for data-driven decision-making.
 
 I specialize in crafting data pipelines and analytical models that transform raw data into actionable insights. I enjoy designing systems that are not only precise and scalable but also optimized for performance. I’m passionate about exploring new technologies like machine learning, automation, and data visualization, and I frequently dive into topics such as data architecture, Python programming, and the intersection between technology and philosophy.  
   
